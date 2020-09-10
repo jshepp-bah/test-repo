@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-repo
+  description: Test Repo
+spec:
+  type: service
+  lifecycle: production
+  owner: jlgreen2012
